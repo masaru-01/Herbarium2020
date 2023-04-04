@@ -15,4 +15,4 @@ SOTAであるEfficientNetを使ってひとまず予測をおこなった。
 
 ## 結果
 submitまで完了できた。
-詳細は[リンク](https://qiita.com/yoko-m-st/items/c05166e5b504091be504)を参照
+データ考察の詳細は[リンク](https://qiita.com/yoko-m-st/items/c05166e5b504091be504)を参照。
